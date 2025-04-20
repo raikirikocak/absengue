@@ -11,7 +11,7 @@ import pandas as pd
 import plotly.express as px
 
 # === Kunci Enkripsi ===
-ENCRYPTION_KEY = b"o0OSj6LwOvRIiZihiTslAMdpdIIuxFvYZh70PYD_BSI="  # Ganti dengan kunci ENCRYPTION_KEY Anda
+ENCRYPTION_KEY = b"o0OSj6LwOvRIiZihiTslAMdpdIIuxFvYZh70PYD_BSI="
 
 # === Fungsi Dekripsi JSON ===
 def bongkar_json(input_file):
