@@ -9,7 +9,7 @@ from cryptography.fernet import Fernet
 
 
 # === 1. Gunakan kunci enkripsi yang diberikan ===
-ENCRYPTION_KEY = b"o0OSj6LwOvRIiZihiTslAMdpdIIuxFvYZh70PYD_BSI="  # Kunci yang diberikan
+ENCRYPTION_KEY = b"o0OSj6LwOvRIiZihiTslAMdpdIIuxFvYZh70PYD_BSI="
 
 # === 2. Fungsi untuk mendekripsi file JSON ===
 def decrypt_json(input_file):
